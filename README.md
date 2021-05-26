@@ -1,0 +1,1 @@
+This notebook is a summary of things and tools I have learnt and came across as a mathematical modeler. 
